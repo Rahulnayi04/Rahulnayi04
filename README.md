@@ -7,7 +7,6 @@ Software devloper and designer
 I'm a Full stack developer at ScanPoint Geomatics Limited...
 
 *   🌍  I'm based in Ahmedabad
-*   🖥️  See my portfolio at [Portfolio](http://bhargav00708.github.io/Portfolio/)
 *   🖥️  See my leetcode profile at [Leetcode](https://leetcode.com/rahulIsLeet/)
 *   ✉️  You can contact me at [nayirahul00@gmail.com](mailto:nayirahul00@gmail.com)
 *   🧠  I'm learning...
